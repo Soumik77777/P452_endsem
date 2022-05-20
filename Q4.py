@@ -47,4 +47,7 @@ Potential at unit distance=
 deg= 4, value= 1.7620541789046658
 deg= 5, value= 1.7628552954010728
 deg= 6, value= 1.7627300484997592
+
+# COMMENTS:
+if we compare the three solutions with degree= 4, 5, 6; we can see that results with 5 and 6 degree is more accurate than degree 4.
 '''
