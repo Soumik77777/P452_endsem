@@ -41,5 +41,5 @@ plt.show()
 The temperature profile at t=0 is a curve for modulus of sin curve. It is zero at both ends and centre.
 The boundary points stays zero at all points. While all the centre points evolves as a function of
 two different diffusion equations, one from 0 to l/2, another one from l/2 to l.
-All the centre points evolve as a composite of that.
+Both the lobes at t=0 could be evolved separately while the centre points are given as a composite of both of that.
 '''
